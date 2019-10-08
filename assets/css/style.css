@@ -3,3 +3,27 @@ body {
     background-size: cover;
 }
 
+.main-title {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    color: rgba(255, 1, 1, 0.712);
+}
+
+.images {
+    margin-left: 25%;
+}
+
+.warrior {
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 15px;
+    border: 1px solid black;
+}
+
+.HPdisplay {
+    position: relative;
+    text-align: center;
+    font-size: 10px;
+}
